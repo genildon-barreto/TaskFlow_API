@@ -19,8 +19,8 @@ namespace TaskFlow_API.Controllers
                 Titulo = "Tarefa 1",
                 Descricao = "Criar a API de Tarefas",
                 Status = "Concluída",
-                DataCriacao = DateTime.Now.AddHours(-1),
-                DataConclusao = DateTime.MinValue
+                DataCriacao = DateTime.Now.AddHours(-2),
+                DataConclusao = DateTime.Now.AddHours(-1)
             },
             new Tarefa
             {
@@ -29,7 +29,7 @@ namespace TaskFlow_API.Controllers
                 Descricao = "Implementar o endpoint de criação",
                 Status = "Em Progresso",
                 DataCriacao = DateTime.Now.AddHours(-1),
-                DataConclusao = DateTime.MinValue
+                DataConclusao = DateTime.Now.AddMinutes(-30)
             },
             new Tarefa
             {
@@ -38,7 +38,7 @@ namespace TaskFlow_API.Controllers
                 Descricao = "Testar a API",
                 Status = "Pendente",
                 DataCriacao = DateTime.Now.AddHours(-1),
-                DataConclusao = DateTime.Now
+                DataConclusao = DateTime.Now.AddMinutes(-10)
             }
         };   
         [HttpGet("Exibir Todas as Tarefas")]

@@ -31,3 +31,4 @@ D:\Aulas, Projetos e Mentorias\Projetos\GitHub\DiO\C#\TaskFlow_API\obj\Debug\net
 D:\Aulas, Projetos e Mentorias\Projetos\GitHub\DiO\C#\TaskFlow_API\obj\Debug\net8.0\TaskFlow_API.pdb
 D:\Aulas, Projetos e Mentorias\Projetos\GitHub\DiO\C#\TaskFlow_API\obj\Debug\net8.0\TaskFlow_API.genruntimeconfig.cache
 D:\Aulas, Projetos e Mentorias\Projetos\GitHub\DiO\C#\TaskFlow_API\obj\Debug\net8.0\ref\TaskFlow_API.dll
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\DiO\C#\TaskFlow_API\obj\Debug\net8.0\TaskFlow_API.sourcelink.json
